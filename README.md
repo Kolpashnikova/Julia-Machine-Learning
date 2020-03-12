@@ -11,5 +11,6 @@ Examples using popular machine learning algorithms in Julia with Jupyter noteboo
 
 ### Regression
 - [linear regression](https://github.com/manu183/Julia-Machine-Learning/blob/master/regression/linear_regression.ipynb)
+- [polynomial regression](https://github.com/manu183/Julia-Machine-Learning/blob/master/regression/polynomial_regression.ipynb)
 
 More to come soon!
